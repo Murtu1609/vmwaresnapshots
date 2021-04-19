@@ -1,0 +1,5 @@
+vm,snapshotname,description,memory,quiesce,removechildren,consolidate
+2008test,before patching,14th Aug,FALSE,FALSE,FALSE,FALSE
+2016test,before patching,14th Aug,FALSE,FALSE,FALSE,FALSE
+win10test,before patching,14th Aug,FALSE,FALSE,FALSE,FALSE
+2016test2,before patching,14th Aug,FALSE,FALSE,FALSE,FALSE

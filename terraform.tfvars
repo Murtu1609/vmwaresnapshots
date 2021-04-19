@@ -1,0 +1,9 @@
+
+
+vsphereserver   = ""
+vsphereuser     = ""
+vspherepassword = ""
+
+datacenter = ""
+
+
