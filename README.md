@@ -1,5 +1,5 @@
 # vmwaresnapshots
-A terraform script take snaphots of vmware virtual machines
+A terraform script to take snaphots of vmware virtual machines
 
 # Pre-requisites
 1) Vmware Vcentre server ip and credentials
